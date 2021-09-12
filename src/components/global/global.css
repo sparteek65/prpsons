@@ -37,16 +37,21 @@ hr{
   justify-content: center;
   align-items: center;
   font-family: 'Prompt', sans-serif;
+  text-align: center;
 }
 .mediumHeading{
   display: flex;
   justify-content: center;
   align-items: center;
   font-family: 'Prompt', sans-serif;
+  text-align: center;
+
 }
 
 .mediumHeading .p {
   margin:10px;
+  text-align: center;
+
 }
 
 ::-webkit-scrollbar {
